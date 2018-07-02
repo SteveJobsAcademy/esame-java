@@ -6,7 +6,7 @@ Sviluppare una applicazione Java che simuli il comportamento del gioco dell’oc
 * [BASE] Ogni volta che il dado viene lanciato si avanza del valore del dado, se si arriva al traguardo superando la soglia si torna indietro del valore del dado.Il numero delle caselle viene passato da parametro. 8️⃣
 * [AVANZATO] Si implementi un variante multigiocatore. 🔟
 
-## Esame 🥈 ```mid``` 👨‍
+## Esame 🥈 ```mid``` 🧛‍
 Sviluppare una applicazione Java che simuli il comportamento dei dadi del risiko.
 [link to Risiko!](https://it.wikipedia.org/wiki/RisiKo!)
 * [BASE]Si implementi una versione 3 dadi contro 3 dadi 7️⃣
