@@ -11,6 +11,7 @@ x = 21 ▸ ok
 24 = no
 * Trova il numero che inizia con x, stesso principio del precedente ma con sostituzione di un nuovo numeropassato sempre da input.
 * Sommatoria dei precedenti fino a metà vettore, e poi sommatoria negativa, ex 3 5 7 12 | 4 8 14 10 diventerà 3 8 15 27 23 15 1 -9.
+* Ordinamento, il vettore dovrà essere ordinabile sia in maniera crescente che decrescente da input di funzione.
 
 
 ## Esame  ```A-B``` 
