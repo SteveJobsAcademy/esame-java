@@ -2,9 +2,16 @@
 
 
 ## Esame 🥇 ```dev``` 🤴
-Sviluppare una applicazione Java che simuli il comportamento del gioco dell’oca
-* [BASE] Ogni volta che il dado viene lanciato si avanza del valore del dado, se si arriva al traguardo superando la soglia si torna indietro del valore del dado.Il numero delle caselle viene passato da parametro. 8️⃣
-* [AVANZATO] Si implementi un variante multigiocatore. 🔟
+Si crei un vettore di dimensione parametrizzabile con numeri randomatici al suo interno: ▸ Si creino i seguenti metodi
+* Reverse, il vettore dovrà essere ribaltato.
+* Trova il numero che inizia con x, passiamo un numero come parametro e verificare quante ricorrenze ci saranno
+con il numero che inizia con x, es 
+x=3, ▸ 3 ok, 
+x = 21 ▸ ok
+24 = no
+* Trova il numero che inizia con x, stesso principio del precedente ma con sostituzione di un nuovo numeropassato sempre da input.
+* Sommatoria dei precedenti fino a metà vettore, e poi sommatoria negativa, ex 3 5 7 12 | 4 8 14 10 diventerà 3 8 15 27 23 15 1 -9.
+
 
 ## Esame 🥈 ```mid``` 🧛‍
 Sviluppare una applicazione Java che simuli il comportamento dei dadi del risiko.
