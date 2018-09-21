@@ -23,6 +23,10 @@ Si creino i seguenti metodi
 * Ordinamento, il vettore dovrà essere ordinabile sia in maniera crescente che decrescente da input di funzione.
 
 ## Esame 🥉 ```C-G``` 🧟‍
-Sviluppare una applicazione Java che simuli il comportamento del gioco PARI E DISPARI.
-* [BASE]Si implementi una versione normale del gioco 6️⃣
-* [AVANZATO] si implementi una versione diversa in cui anziché la somma tra le due mani, si esegua la divisione, disabilitando lo 0. 8️⃣
+Si crei un vettore di dimensione parametrizzabile con numeri randomatici al suo interno:
+Si creino i seguenti metodi
+* Reverse, il vettore dovrà essere ribaltato.
+* Divisione /2 + casting a valore intero, ex: 3 6 19 29 sarà 1 3 9 14.
+* Divisione per x, come il precedente ma con valore della divisione parametrizzabile da input di funzione.
+* Sommatoria dei precedenti fino a metà vettore, e poi sommatoria negativa ex 3 5 7 12 | 4 8 14 10 diventerà 3 8 15 27 23 15 1 -9.
+* Ordinamento, il vettore dovrà essere ordinabile sia in maniera crescente che decrescente da input di funzione.
